@@ -3,7 +3,7 @@
 
 ###- `DanmakuScratchpad.as` 弹幕涂鸦系统
 
-###- `lanbai3`     [蓝白三弹幕作品](http://www.bilibili.tv/video/av734560/)
+###- `lanbai3`     [蓝白三弹幕作品](http://www.bilibili.com/video/av734560/)
 
 
  
@@ -26,7 +26,7 @@
 >     17.MainAkari.as              ##ED与EPM主合成
 >     18.seek.as                   ##未加载完整，跳转
 >     N10.BRH.as                   ##时空游客，bug未解，未收录 
-	[《Brave Heart》](http://www.bilibili.tv/video/av734037/ )
+	[《Brave Heart》](http://www.bilibili.com/video/av734037/ )
     
 
      
